@@ -1,5 +1,5 @@
 # Quiz
-C# quiz made in ETEC high-school.
+C# quiz made in ETEC vocational-technical high-school.
 > [!NOTE]
 > This project was made almost an year ago and it was not made to be optmized or visually appealing.
 
