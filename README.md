@@ -1,7 +1,7 @@
 # Quiz
 C# quiz made in ETEC vocational-technical high-school.
 > [!NOTE]
-> This project was made almost an year ago and it was not made to be optmized or visually appealing.
+> This project was made months ago and it was not made to be optmized or visually appealing.
 
 # How to open
 To open the file you must have an IDE that supports C# (i recommend Visual Studio 2022).
