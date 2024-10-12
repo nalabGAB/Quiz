@@ -13,4 +13,4 @@ To open the file you must have an IDE that supports C# (i recommend Visual Studi
 # Features
 <p>The application showcases my skills in C#.</p>
 
-<img alt="C# Logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="75">
+<img alt="C# Logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="70">
