@@ -5,7 +5,7 @@ C# quiz made in ETEC vocational-technical high-school.
 
 # How to open
 > [!IMPORTANT]
-> To open the file you must do one of the following:
+> To open the file you must follow one of the following step by step guides:
 > 1. Release<br />
 >   1.1. Open the latest release version on the Github repository page;<br />
 >   1.2. Download and execute the "Quiz.exe" file.
